@@ -9,6 +9,9 @@
   "author": "Benjamin Roy",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.14.0"
+    "express": "^4.14.0",
+    "express-locale": "^0.1.2",
+    "express-useragent": "^0.2.4",
+    "os": "^0.1.1"
   }
 }
